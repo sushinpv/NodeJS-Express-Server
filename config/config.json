@@ -1,0 +1,5 @@
+{
+    "_PORT":"3200",
+    "_HOST":"http://localhost",
+    "_MONGOOSE": "mongodb://username:password@localhost/database"
+}
